@@ -15,6 +15,4 @@ This is a Netflix-style website clone built using **HTML, CSS, and JavaScript**.
 - CSS3 (Flexbox, Grid)
 - JavaScript (DOM Manipulation)
 
-## 🌐 Live Preview
-[Click here to view live](
-http://127.0.0.1:5501/landing.html
+
